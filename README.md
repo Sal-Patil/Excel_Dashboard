@@ -42,7 +42,7 @@ By transforming raw transactional data into interactive visualizations, the dash
 
 5. Which region had the highest profit or sales? 
 
-Dashboard Interaction- <a href="">View Dashboard</a>
+Dashboard Interaction- <a href="https://github.com/Sal-Patil/Excel_Dashboard/blob/main/Dashboard_Interaction.xlsx">View Dashboard</a>
 
 ## 🛠️ *Tools Used*
 
